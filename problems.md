@@ -229,4 +229,11 @@ Aimlessly walk through town
 街をぶらぶら歩く
 
 Run through expressway
+高速道路を走る
+
+Study Japanese everyday
+毎日、日本語を勉強する
+
+Registered email address
+メールアドレスを登録した
 
